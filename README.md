@@ -1,7 +1,7 @@
 # Garden
 
 Projet qui contient sous format csv la liste des légumes, plantes aromatiques, fleurs, etc du catalogue de [semailles.com](https://semailes.com)
-ainsi que le script bash permettant de récupérer pour chaque semence le lien sur ke site semailles correspondant à sa fiche.
+ainsi que le script bash permettant de récupérer pour chaque semence le lien sur le site semailles correspondant à sa fiche.
 
 Pour générer un nouveau fichier, il faut tout d'abord exporter du document google sheet suivant - [semailles](https://docs.google.com/spreadsheets/d/1y8EeFDYmEHcsBP5SBT0h9k3I57COkKZTR-O6rI28WoU)
 les données au format csv vers le fichier `semailles-2022.csv`.
